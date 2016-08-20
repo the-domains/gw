@@ -1,0 +1,14 @@
+layout_spectrum: 0.9103943
+typography_spectrum: 0.7939068
+color:
+  saturation: 0.3397078
+  brandStrength: 0.7562724
+  lightness: 0.354697
+  rhythmicContrast: 0.3963334
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Gw
